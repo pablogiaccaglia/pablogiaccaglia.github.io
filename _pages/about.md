@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
 
 news: false  # includes a list of news items
