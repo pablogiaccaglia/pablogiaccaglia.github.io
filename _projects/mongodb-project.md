@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📄 Covid certificates-oriented MongoDB Database
+title: 📄 Covid certificates MongoDB Database
 description: Master degree project
 img: assets/img/MongoDB-logo.jpeg
 redirect: https://github.com/pablogiaccaglia/mongodb-covid-certificates
