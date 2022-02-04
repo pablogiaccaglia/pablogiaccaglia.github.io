@@ -2,7 +2,7 @@
 layout: page
 title: Software Engineering Project
 description: Polimi Software Engineering Project 2020/2021
-img: https://raw.githubusercontent.com/pablogiaccaglia/ing-sw-2021-laconca-lodari-giaccaglia/master/screenshots/gui-4.png
+img:
 importance: 2
 category: work
 ---
