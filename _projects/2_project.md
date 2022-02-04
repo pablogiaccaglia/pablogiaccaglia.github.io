@@ -53,40 +53,40 @@ category: work
 <tbody>
 <tr>
 <td style="text-align:left">Basic rules</td>
-<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server/model"><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a></td>
+<td style="text-align:center"><a href="https://placeholder.com">☑️</a></td>
 </tr>
 <tr>
 <td style="text-align:left">Complete rules</td>
-<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server/model"><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a></td>
+<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server/model">☑️</a></td>
 </tr>
 <tr>
 <td style="text-align:left">Socket</td>
-<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server"><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a></td>
+<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server">☑️</a></td>
 </tr>
 <tr>
 <td style="text-align:left">GUI</td>
-<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/client/view/GUI"><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a></td>
+<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/client/view/GUI">☑️</a></td>
 </tr>
 <tr>
 <td style="text-align:left">CLI</td>
-<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/client/view/CLI"><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a></td>
+<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/client/view/CLI">☑️</a></td>
 </tr>
 <tr>
 <td style="text-align:left">Multiple games</td>
-<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server/controller"><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a></td>
+<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server/controller">☑️</a></td>
 </tr>
 <tr>
 <td style="text-align:left">Persistence</td>
-<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server/controller"><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a></td>
+<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server/controller">☑️</td>
 </tr>
 <tr>
 <td style="text-align:left">Disconnection resilience</td>
-<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server/controller"><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a></td>
+<td style="text-align:center"><a href="https://github.com/Calonca/ing-sw-2021-laconca-lodari-giaccaglia/tree/master/src/main/java/it/polimi/ingsw/server/controller">☑️</a></td>
 </tr>
 </tbody>
 </table>
 <h4 id="legend">Legend</h4>
-<p><a href=""><img src="http://placehold.it/15/f03c15/f03c15" alt="RED"></a> Not Implemented &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="http://placehold.it/15/ffdd00/ffdd00" alt="YELLOW"></a> Implementing&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a> Implemented</p>     
+<p>❌ Not Implemented &nbsp;&nbsp;&nbsp;&nbsp; ☑️ Implemented</p>     
 <h2 id="usage">Usage</h2>
 <h3 id="windows-linux-macos">Windows/Linux/MacOS</h3>
 <ol>
@@ -128,7 +128,7 @@ category: work
 <blockquote>
 <p>Note that the following GIFs related to the GUI show the state of the game when it was delivered for evaluation. Due to copyright reasons the assets, which were provided without permission of making them freely available, have been later substituted with ones made by ourselves.</p>
 </blockquote>
-<h2><p align="center"><b>GUI</b>&lt;/&gt;</h2>
+<h2><p align="center"><b>GUI</b></h2>
 
 <table>
 <thead>
