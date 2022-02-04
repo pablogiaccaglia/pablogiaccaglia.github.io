@@ -86,12 +86,7 @@ category: work
 </tbody>
 </table>
 <h4 id="legend">Legend</h4>
-<p><a href=""><img src="http://placehold.it/15/f03c15/f03c15" alt="RED"></a> Not Implemented &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="http://placehold.it/15/ffdd00/ffdd00" alt="YELLOW"></a> Implementing&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a> Implemented</p>
-<a href="!--
-[![RED](http://placehold.it/15/f03c15/f03c15)](#)
-[![YELLOW](http://placehold.it/15/ffdd00/ffdd00)](#)
-[![GREEN](http://placehold.it/15/44bb44/44bb44)](#)
---">
+<p><a href=""><img src="http://placehold.it/15/f03c15/f03c15" alt="RED"></a> Not Implemented &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="http://placehold.it/15/ffdd00/ffdd00" alt="YELLOW"></a> Implementing&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="http://placehold.it/15/44bb44/44bb44" alt="GREEN"></a> Implemented</p>     
 <h2 id="usage">Usage</h2>
 <h3 id="windows-linux-macos">Windows/Linux/MacOS</h3>
 <ol>
