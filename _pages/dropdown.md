@@ -1,12 +1,7 @@
 ---
 layout: page
-title: submenus
-nav: false
-dropdown: false
-children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+permalink: /assets/pdf/pablo-giaccaglia-CV.pdf
+title: cv
+description: My personal CV
+nav: true
 ---
