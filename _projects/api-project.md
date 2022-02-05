@@ -5,5 +5,5 @@ description: A C program that represents a text editor, where you can add, remov
 img: 
 redirect: https://github.com/pablogiaccaglia/Progetto-API-2020
 importance: 6
-category: university projects
+category: university
 ---
